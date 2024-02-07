@@ -1,0 +1,11 @@
+body{
+    background-color: white ;
+    color: cornflowerblue;
+}
+*{
+    padding: 4px;
+}
+input, button{
+    background-color: lightblue;
+    color: white;
+}
